@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOC", "IOC\IOC.csproj", "{D1E62E3C-56C1-43CC-B07B-B7D0D46374DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc.Core", "Ioc.Core\Ioc.Core.csproj", "{57BE3283-CF3B-48DB-A594-73C42B54BEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E62E3C-56C1-43CC-B07B-B7D0D46374DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E62E3C-56C1-43CC-B07B-B7D0D46374DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E62E3C-56C1-43CC-B07B-B7D0D46374DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E62E3C-56C1-43CC-B07B-B7D0D46374DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BE3283-CF3B-48DB-A594-73C42B54BEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BE3283-CF3B-48DB-A594-73C42B54BEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BE3283-CF3B-48DB-A594-73C42B54BEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BE3283-CF3B-48DB-A594-73C42B54BEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA1E537-7DD1-4DE9-9A07-DAC6B584A091}
+	EndGlobalSection
+EndGlobal
